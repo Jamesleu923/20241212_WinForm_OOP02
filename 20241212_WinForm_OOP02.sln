@@ -5,6 +5,11 @@ VisualStudioVersion = 17.12.35506.116 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20241212_WinForm_OOP02", "20241212_WinForm_OOP02.csproj", "{8DA201A9-7316-4AA5-A846-8CC140256BCE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{F268A3C0-B40A-4B73-8928-4EBF633CFAEE}"
+	ProjectSection(SolutionItems) = preProject
+		bg.jpg = bg.jpg
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
